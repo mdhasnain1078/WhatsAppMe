@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "974705252041",
+    "project_id": "whatsapp-messangr",
+    "storage_bucket": "whatsapp-messangr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974705252041:android:66d402c42a53c2076a1f18",
+        "android_client_info": {
+          "package_name": "com.example.whatsappme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974705252041-0acefa5ef0ggju1udfjacpiij639lkdc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDv0S-Bz7ZxtaUMwQb1qP5Ki7k0VzcYgxg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974705252041-0acefa5ef0ggju1udfjacpiij639lkdc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
